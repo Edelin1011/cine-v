@@ -26,7 +26,7 @@
             color: #333;
             text-align: center;
             text-transform: uppercase;
-            border-bottom: 8px solid #3498db;
+            border-bottom: 8px solid #1b84ca;
             padding-bottom: 10px;
             margin-top: 20px;
             font-size: 36px;
