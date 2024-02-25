@@ -45,7 +45,7 @@
         }
 
         label {
-            color: #5e35b1;
+            color: #7144cc;
         }
 
         .btn-primary {
