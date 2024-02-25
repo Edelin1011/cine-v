@@ -33,7 +33,7 @@
         }
 
         button {
-            background-color: purple;
+            background-color: rgb(153, 4, 153);
             width: 229px;
             margin-bottom: 10px;
             color: white;
